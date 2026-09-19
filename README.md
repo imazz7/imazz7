@@ -36,5 +36,5 @@
 ## Contribuições
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/imazz7/imazz7/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Animação das contribuições">
+  <img src="https://raw.githubusercontent.com/imazz7/imazz7/gh-pages/github-contribution-grid-snake-dark.svg" width="95%" alt="Animação das contribuições">
 </div>
