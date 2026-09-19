@@ -2,9 +2,6 @@
 
 # Enrico Locateli Costa
 
-Estudante de Engenharia de Software, interessado em programação, automação e
-desenvolvimento de projetos úteis.
-
 <a href="https://github.com/imazz7">
   <img src="https://komarev.com/ghpvc/?username=imazz7&style=flat-square&color=0e75b6&label=Visualizacoes" alt="Visualizações do perfil">
 </a>
